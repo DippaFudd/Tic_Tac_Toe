@@ -2,7 +2,7 @@
 
 A stylish, modern browser-based Tic Tac Toe game built using **HTML, CSS, and JavaScript**. Play a classic 2-player match with a beautiful interface and intuitive controls.
 
-![Tic Tac Toe Screenshot](screenshot.png)
+![Image Alt](https://github.com/DippaFudd/Tic_Tac_Toe/blob/2bc48fc35a41955d6af1f3bc104658fb803a10ad/2025-05-22%20(3).png)
 
 ---
 

@@ -8,7 +8,7 @@ A stylish, modern browser-based Tic Tac Toe game built using **HTML, CSS, and Ja
 
 ## 🔗 Live Demo
 
-👉 [Play Now](https://your-live-link-here.com) *(replace with your hosted link)*
+👉 [Play Now](tic-tac-toe-self-one-63.vercel.app) 
 
 ---
 
@@ -62,5 +62,5 @@ To run the project locally:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/tic-tac-toe.git
+   git clone(Repo)
    cd tic-tac-toe
